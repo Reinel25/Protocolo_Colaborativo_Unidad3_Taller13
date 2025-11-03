@@ -3,7 +3,7 @@ package Ejercicio1;
 public class MainPrueba {
     public static void main(String[] args) {
 
-        Rectangulo rec = new Rectangulo( 5, 6);
+        Rectangulo rec = new Rectangulo( 5, 3);
         Triangulo tri = new Triangulo(4, 6);
 
         rec.mostrarFigura();
